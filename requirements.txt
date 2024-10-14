@@ -1,5 +1,3 @@
-langchain
-langchain_community
 pandas
 numpy
 streamlit
