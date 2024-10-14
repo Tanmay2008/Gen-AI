@@ -1,0 +1,16 @@
+langchain
+langchain_community
+pandas
+numpy
+streamlit
+PyPdf2
+tiktoken
+#faiss-gpu
+#faiss-cpu
+pdfplumber
+sentence_transformers
+huggingface_hub
+SentencePiece
+-e .
+#conda install -c conda-forge faiss-cpu
+#pip install faiss-cpu --force-reinstall
