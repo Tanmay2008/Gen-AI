@@ -1,8 +1,8 @@
 import os
-from text_extraction import extract_text_from_pdf
-from vectorizer import vectorize_text
-from retriever import Retriever
-from rag_pipeline import RAGPipeline
+from src.components.text_extraction import extract_text_from_pdf
+from src.components.vectorizer import vectorize_text
+from src.components.retriever import Retriever
+from src.pipeline.rag_pipeline import RAGPipeline
 
 def main():
     """
